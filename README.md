@@ -1,4 +1,4 @@
-##Hi, I am Vani✨
+## Hi, I am Vani✨
 
 🎓 Computer Science student at Gandhinagar University.<br /> 
 🤓 Self-taught Graphic designer and video editor.<br /> 
