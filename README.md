@@ -1,20 +1,208 @@
-# Hi, I'm Vani ⋆˚࿔
-I collect interests the way some people collect achievements.<br><br>As a Computer Science student, I'm passionate about software development and data science, but I rarely stay in one lane for long. I enjoy exploring the intersection of technology, design, storytelling, and creativity—whether that's through code, graphic design, 3D art in Blender, or the occasional hackathon sprint.<br><br>I'm fascinated by things that are both functional and beautiful. Great software, thoughtful design, immersive games, compelling stories, and innovative ideas all inspire the way I build.<br><br>Outside of tech, I enjoy reading, discovering new music, exploring different cuisines, and getting lost in story-rich adventure games.<br><br>Always curious. Always learning. Always building.<br><br>[Fun fact]:<br>Most of my best ideas start with "what happens if..."<br>I think every skill becomes more interesting when combined with another.<br>I can probably be convinced to do your work if momos are involved.
+# ✦ welcome to vani's little workshop 🕯️
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanisharma24/vanisharma24/output/sakura-garden-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanisharma24/vanisharma24/output/sakura-garden.svg">
+    <img src="https://raw.githubusercontent.com/vanisharma24/vanisharma24/output/sakura-garden.svg" alt="Vani's Sakura Garden" width="1000">
+  </picture>
+</p>
+```
+                                                                                                                                                                                    
+                                                                                                    
+                                                                                                    
+             .-::...                                                              ........          
+           ...####*+-....                                                      ..:=+*###*..         
+           ..-########*=:..                                                ...-+#########-...       
+           ..-*##########*-...                                          ...-+############-...       
+           ..:+############*=..                                        ..=*#############*:...       
+         ....:=#####**+*#+++##=:.                                   ..:=##+++#*++*######=:.         
+         ... .-######**+**++**##+:..        ...      ....         ..-*##**++**++*######*-..         
+         ... .-*##+==++=+*=---=+##+:..     ..=..    ..=:.       ..-*#*+=---=*+=++==+*##+:..         
+             .-=##*+=--+*=======+*+*=....  .-..       .-.    ...:+*+*========++=--=*###=:....       
+           ...:-###+=----++----=+*+=+*-... .:.        .:.  ...-+*==**+=----=*=----=*##*-.....       
+           ....-=#*+======++=-----++==++:...-.        .:. ..:=*=-++=-----=+*=======+*#=:.....       
+             ..:-###*=---=+=====----++=+#-......     .... .-#*=+*=----====++=---=+*##*-....         
+             ...-=##*+=-=--+=-----==-=*++#=..:..    ..:...=#++*+--=------=+---===+***--....         
+               .:-=##*=----++++=-----===-+#-..:..  ..:...=#+-===------==+++=----=**#=-...           
+               ..:-=*=-=+=---=----====-+=-+#+..:.  .:...+#+-=+---===----=----=+==+*--:.             
+                ...--+*+=-===++==-----==*+-=#+..:..:...+#=-=*===-----======---=++=--...             
+                ...-+**+**++=+++**=------+*=+#+..:....*#+=+*=------+++++++++******=...              
+                .:=*+--==--=++=---=+++==--=***#+-++--*#***=---=++++==-==++=====--=*=:..             
+               ..+**+=---==---==++=--=+==+=-+######**###+-==+=+==--=+++=---==----+***-.             
+               .:*#+----=======---=++===+==+*###########*+======+++=---=====-==----*#+.             
+                .:+*=---====-=====-----==+***###########***+===-----=========----=+*+..             
+                ..:++=----==+=-==-----=----=+*#######%#*+=----------==--=+==----==+=..              
+                  ..=+==-----+==-===========+##########*+=========----==+-----=-+*-...              
+                   ..-+=---=+*+*+===========+**++##*+#**+====--=====+++++==---=++:..                
+                    ...:=**#*=--==========-==*+:-*#=:=*+=-===========--=+***+=-:...                 
+                     ..=###*+++=========-===*+:.:+*-.:=*+==-=+===========+###*=..                   
+                    ..+######+===----+==+==++:...::....=*==+=-=+----==-=*#*####=..                  
+                    ..=#####*+==--=======++*-..      ...=*=+======----=++######*:.                  
+                      .=#####++--=+--==-=+*=..        ..:++==-=---==--=++#####+:..                  
+                      .:*####*++**=-==--=*+..           .-++=--==--+*==+*#####=.                    
+                       ..:=######+=+*=--+*:.            ..=*+--=*+=+*######*+-.                     
+                          .+#######*****#-.               .=#*++*#*#######*.                        
+                             ..=#########:.               .-##########+--:..                        
+                              .:*+-=###-...               ..=*####**#+.                             
+                             ..+=..........               ....-=:...=*:.                            
+                             .==...                            ... ..-*.                            
+                            .+*..                                   ..-+..                          
+                          ..*#+.                                     ..##-..                        
+                          ......  .....                               .:--.                         
+                                                                       ...                          
+                                                                                                    
+                                                                                                                                                                                                      ```
+                                                                                                  
+                                                                                                    
+> *Somewhere between code, design, stories, and curiosity, I keep turning little ideas into real things.*
 
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat-square&logo=adobeindesign&logoColor=FF3366) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat-square&logo=Playstation&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
-#  GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vanisharma24&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=vanisharma24&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vanisharma24&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🌱 a little about me
 
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vanisharma24&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+I'm a Computer Science student who enjoys the space where **technology meets creativity**.
 
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vanisharma24&limit=5&theme=rose&combine_all_yearly_contributions=true)
+I started with programming, wandered into design, discovered Blender, got curious about games and storytelling, and eventually collected a whole workshop of interests.
+
+I enjoy building things that are **useful, thoughtful, and a little beautiful** — from software and interfaces to experiments, interactive experiences, and whatever idea begins with:
+
+> **"what happens if...?"**
 
 ---
-[![](https://komarev.com/ghpvc/?username=vanisharma24&icon=0&color=10)](https://visitcount.itsvg.in)
 
+## 🗺️ the workshop map
+
+```text
+                 ✦ VANI'S WORKSHOP ✦
+                         🕯️
+                          │
+          ┌───────────────┼───────────────┐
+          ▼               ▼               ▼
+       💻 CODE         🎨 CREATE       🔮 EXPLORE
+          │               │               │
+       WEB • DATA      UI • 3D        AI • GAMES
+       SYSTEMS         DESIGN         IDEAS
+          └───────────────┼───────────────┘
+                          ▼
+                     🌱 BUILD
+                          │
+                          ▼
+                    ✨ DISCOVER
+```
+
+---
+
+## 🌸 the garden
+
+> *Every contribution leaves a little trace.*
+
+The garden above grows from my GitHub activity — a tiny visual record of the things I'm building, learning, and exploring.
+
+**🌱 build · 🌸 learn · ✨ grow**
+
+It is automatically updated with GitHub Actions, so the garden changes along with my GitHub journey.
+
+---
+
+## 📜 the spellbook
+
+**Languages**
+
+`Java` · `Python` · `JavaScript` · `TypeScript` · `C` · `SQL` · `Rust` · `Lua`
+
+**Web & Development**
+
+`React` · `Next.js` · `Node.js` · `Tailwind CSS` · `Vite` · `Supabase` · `PostgreSQL`
+
+**Tools**
+
+`Git` · `GitHub` · `Docker` · `Postman` · `Figma` · `Vercel` · `Notion`
+
+**Creative**
+
+`Blender` · `Adobe Illustrator` · `Adobe InDesign`
+
+---
+
+## 🗝️ current quest
+
+> **Turn more "what if...?" moments into things that actually exist.**
+
+```text
+💻 build better software
+🎨 create thoughtful interfaces
+🧠 understand systems deeply
+🕹️ explore games & interactive experiences
+🧊 keep experimenting with 3D
+🤖 explore data & AI
+⚡ keep learning through hackathons
+✨ turn ideas into polished experiences
+```
+
+---
+
+## 🏆 tiny achievements
+
+```text
+✦ FIRST COMMIT       made something exist
+✦ HACKATHON MODE     build • learn • ship
+✦ BUG HUNTER         solve • debug • repeat
+✦ DESIGN ARC         make it work beautifully
+✦ FULL-STACK         from interface to database
+✦ CREATIVE CODER     code as another medium
+✦ SHIPPED IT         idea → something real
+✦ SECRET QUEST       still unlocking...
+```
+
+---
+
+## 🎧 workshop soundtrack
+
+There is almost always music playing somewhere in here.
+
+```text
+Spotify
+   ↓
+headphones
+   ↓
+one playlist
+   ↓
+"just one more song"
+   ↓
+✦ CREATE ✦
+```
+
+Outside of code, I enjoy music, books, food, visual design, 3D art, and story-rich games — usually finding inspiration in places I wasn't expecting.
+
+---
+
+## 🔭 currently exploring
+
+`System Design` · `Data & AI` · `Advanced UI/UX` · `3D` · `Interactive Experiences`
+
+I like learning across boundaries because the most interesting ideas usually happen somewhere in the middle.
+
+---
+
+## 💌 if you wandered this far...
+
+If you're building something interesting, working on a hackathon, designing something beautiful, or simply want to talk about technology and creativity —
+
+**come say hi.**
+
+<p align="center">
+  <a href="https://github.com/vanisharma24">GitHub</a>
+  ·
+  <a href="www.linkedin.com/in/vani-sharma24">LinkedIn</a>
+  ·
+  <a href="https://www.instagram.com/vanidotjpg">Instagram</a>
+</p>
+
+---
+
+<p align="center">
+  ✦ ───────── 🕯️ WORKSHOP OPEN 🕯️ ───────── ✦
+</p>
+
+<p align="center">
+  <sub>made with code, curiosity, creativity, and probably Spotify playing somewhere.</sub>
+</p>
