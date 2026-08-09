@@ -7,7 +7,6 @@
     <img src="https://raw.githubusercontent.com/vanisharma24/vanisharma24/output/sakura-garden.svg" alt="Vani's Sakura Garden" width="1000">
   </picture>
 </p>
-```
                                                                                                                                                                                     
                                                                                                     
                                                                                                     
