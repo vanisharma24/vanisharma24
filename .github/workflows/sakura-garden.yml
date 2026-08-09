@@ -1,0 +1,20 @@
+name: 🌸 Sakura Garden Generator 🌸
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🌸 Sakura Garden Generator 🌸
+        uses: a104437ana/sakura-garden@v1.2.0
