@@ -194,6 +194,8 @@ If you're building something interesting, working on a hackathon, designing some
   <a href="www.linkedin.com/in/vani-sharma24">LinkedIn</a>
   ·
   <a href="https://www.instagram.com/vanidotjpg">Instagram</a>
+   ·
+  <a href="https://www.codedex.io/@vanisharma">Codédex</a>
 </p>
 
 ---
